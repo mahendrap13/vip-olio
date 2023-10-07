@@ -7,6 +7,9 @@
     "server": "nodemon --exec babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=16.20.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
